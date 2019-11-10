@@ -1,0 +1,72 @@
+body {
+
+    background-image: url(backgroundundangan.jpeg);
+    background-size: cover;
+    padding: 0%;
+
+}
+#demo{
+    margin-left: 20px;
+    margin-top: 5px;
+    font-family: 'Indie Flower', cursive;
+
+}
+.downtime h5 {
+    margin-top: -30px;
+    float: right;
+}
+.downtime {
+    background: #000000;
+    font-size: 20px;
+    color: white;
+    width: 100%;
+    float: right;
+    position: fixed;
+    margin-top: -10px;
+}
+.header {
+    font-family: 'Indie Flower', cursive;
+    position: relative;
+    text-align: center;
+    font-size: 20px;
+    padding: 50px;
+    color: #000000;
+    text-shadow: 4px 4px 2px rgb(248, 243, 243);
+}
+.body2 table {
+    text-align: left;
+}
+.body2 p {
+    margin-left: 20px;
+}
+.body2 {
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Open Sans', sans-serif;
+    padding: 20px;
+}
+
+.body1 {
+
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+.body1 h3 {
+    margin-left: 30px;
+    margin-top: 5px;
+}
+#footer {
+    
+    height: 30px;
+    margin-top: 20px;
+    text-align: center;
+    position: relative;
+    color: black;
+    text-align: center;
+    background: white;
+}
+.doa {
+    text-align: center
+}
+#mymap-canvas .text-marker{}.map-generator{max-width: 100%; max-height: 100%; background: none;}
